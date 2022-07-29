@@ -4,4 +4,4 @@
 iojiojioh
 
 
-test av ny funsjkon
+test av ny funksjon
