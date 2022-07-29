@@ -2,3 +2,6 @@
 
 
 iojiojioh
+
+
+test av ny funksjon
